@@ -133,6 +133,8 @@ https://www.w3schools.com/html/html_links.asp
 - 다른 페이지로 링크 연결
 - 같은 페이지에서 상하 이동 - 북마크 기능
 
+  - href에 #만 사용하게 되면 페이지의 처음으로 이동
+
 ### HTML Lists
 
 https://www.w3schools.com/html/html_lists.asp
@@ -248,5 +250,40 @@ https://codesandbox.io/
   - loop : 반복 재생
   - autoplay : 자동재생
   - muted : 음소거
+
+### HTML Semantic Elements
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+- 영역을 구분하는 태그(요소)를 의미있게 구분하고 영역을 성정하도록하는 요소
+
+> header : 웹페이지 상단영역 - 로고, 로그인, 메듀
+>
+> nav : (nav)igation : 웹사이트 메뉴
+>
+> section : 콘텐츠를 담는 영역
+>
+> aticle : 짧은 글 / 한 내용으로 완성되는 글
+>
+> aside : 부수적인 내용, 광고
+>
+> footer : 하단 영역 - 서버 로고, 주소, 연락처, 소유권
+
+### HTML Block & Inline
+
+https://www.w3schools.com/html/html_blocks.asp
+
+- HTML Elementsd의 특성(디자인 개념)
+
+  - Block의 요소
+
+    - 항상 새 줄에서 표시됨(줄 바뀌어서 표시)
+    - Block 요소로 만들어지는 영역의 가로길이가 전체 너비에 채워짐
+    - div : (div)ision - container 요소
+
+  - Inline 요소
+    - 한 줄에 나란히 표시됨(줄 바뀌지 않음)
+    - Iinline 요소로 만들어지는 영역의 가로길이가 콘텐츠 크기만큼 만들어짐
+    - span : (span)
 
 # CSS
